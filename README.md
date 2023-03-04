@@ -5,7 +5,7 @@ I write code by day and compose tunes by night, a full-stack software developer 
 
 <br/>
 
-[![SkillIcons](https://skillicons.dev/icons?i=ableton,arduino,aws,bash,bootstrap,c,cpp,css,d3,django,docker,dotnet,dynamodb,eclipse,electron,express,github,gradle,heroku,hibernate,html,java,js,jenkins,jquery,kafka,latex,md,maven,mongodb,mysql,nodejs,ps,php,postgres,postman,py,raspberypi,react,regex,spring,selenium,vscode,)](https://skillicons.dev)
+[![SkillIcons](https://skillicons.dev/icons?i=ableton,arduino,aws,bash,bootstrap,c,cpp,css,d3,django,docker,dotnet,dynamodb,eclipse,electron,express,github,gradle,heroku,hibernate,html,java,js,jenkins,jquery,kafka,latex,md,maven,mongodb,mysql,nodejs,ps,php,postgres,postman,py,raspberrypi,react,regex,spring,selenium,vscode,)](https://skillicons.dev)
 
 <br/>
 
