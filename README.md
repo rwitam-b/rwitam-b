@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**rwitam-b/rwitam-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋, I am Rwitam Bandyopadhyay!
 
-Here are some ideas to get you started:
+I write code by day and compose tunes by night, a full-stack software developer and musician in perfect harmony.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+[![SkillIcons](https://skillicons.dev/icons?i=ableton,arduino,aws,bash,bootstrap,c,cpp,css,d3,django,docker,dotnet,dynamodb,eclipse,electron,express,github,gradle,heroku,hibernate,html,java,js,jenkins,jquery,kafka,latex,md,maven,mongodb,mysql,nodejs,ps,php,postgres,postman,py,raspberypi,react,regex,spring,selenium,vscode,)](https://skillicons.dev)
+
+<br/>
+
+# Socials 📝
+
+[<img alt="rwitamb | LinkedIn" height="32px" src="icons/LinkedIn.svg"/>][linkedin]
+[<img alt="rwitamb | Instagram" height="32px" src="icons/Instagram.svg" />][instagram]
+
+[instagram]: https://www.instagram.com/rwitamb/
+[linkedin]: https://www.linkedin.com/in/rwitamb/
